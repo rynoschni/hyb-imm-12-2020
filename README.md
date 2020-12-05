@@ -2,15 +2,16 @@
 
 Welcome to DigitalCrafts!
 
-This is your field guide to your Flex cohort, and should provide you with information you need about what to expect in class week to week.
+This is your field guide to your Hybrid Immersive cohort, and should provide you with information you need about what to expect in class week to week.
 
 ## Important Links
 
-- [Classroom Zoom](ADD THIS)
+- [Classroom Zoom](https://bit.ly/3qpSqQS)
 - [Class Recordings](UPDATE THIS)
-- [Liz's Meeting Link](ADD THIS)
-- [Classroom Board](https://github.com/orgs/DigitalCraftsStudents/teams/2020-12-immersive)
+- [Liz's Meeting Link](https://app.hubspot.com/meetings/liz108)
+- [Classroom Board](https://github.com/orgs/DigitalCraftsStudents/projects/3)
 - [Office Hours](https://bit.ly/2V696Ps)
+- [General Class Info Doc](https://bit.ly/3g2F2NE)
 - [Elective Recordings](https://bit.ly/2VmEiJ6)
 - [Holiday Schedule](https://docs.google.com/document/d/1h9akZN_HDBRBuprUJkLnx82GGBm_zImcWoVr-IL1eg4/edit?usp=sharing)
 - [Mentorship Program](https://share.hsforms.com/1reW_NwkpSzOq47uGFtXYuQ1id8k)
