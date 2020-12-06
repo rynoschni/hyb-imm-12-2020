@@ -7,7 +7,8 @@ This is your field guide to your Hybrid Immersive cohort, and should provide you
 ## Important Links
 
 - [Classroom Zoom](https://bit.ly/3qpSqQS)
-- [Class Recordings](UPDATE THIS)
+- [Class Recordings](TBD)
+- [Debug Process](https://docs.google.com/document/d/1Hb3IZVcnrZQ6FXNgiqUBbqrEkRv-k1O_TFffqj3KoVs/)
 - [Learning Portal(your Textbook)](https://learn.digitalcrafts.com/immersive/)
 - [Classroom Board](https://github.com/orgs/DigitalCraftsStudents/projects/3)
 - [Office Hours](https://bit.ly/2V696Ps)
@@ -16,6 +17,7 @@ This is your field guide to your Hybrid Immersive cohort, and should provide you
 - [Liz's Meeting Link](https://app.hubspot.com/meetings/liz108)
 - [Holiday Schedule](https://docs.google.com/document/d/1h9akZN_HDBRBuprUJkLnx82GGBm_zImcWoVr-IL1eg4/edit?usp=sharing)
 - [Mentorship Program](https://share.hsforms.com/1reW_NwkpSzOq47uGFtXYuQ1id8k)
+
 
 ## Lectures
 
