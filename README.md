@@ -10,7 +10,7 @@ This is your field guide to your Hybrid Immersive cohort, and should provide you
 - [Class Recordings](https://docs.google.com/spreadsheets/d/1T7UjFU2r-hBy-nvo-XRCmNK_y6AYBHhfkQdZXXZ5FKE/edit#gid=0)
 - [Debug Process](https://docs.google.com/document/d/1Hb3IZVcnrZQ6FXNgiqUBbqrEkRv-k1O_TFffqj3KoVs/)
 - [Learning Portal(your Textbook)](https://learn.digitalcrafts.com/immersive/)
-- [Classroom Board](https://github.com/orgs/DigitalCraftsStudents/projects/3)
+- [Classroom Board](https://github.com/DigitalCraftsStudents/hyb-imm-12-2020/projects/1)
 - [Office Hours](https://bit.ly/2V696Ps)
 - [Elective Recordings](https://bit.ly/2VmEiJ6)
 - [General Class Info Doc](https://bit.ly/3g2F2NE)
