@@ -118,60 +118,132 @@ Click on the link and install from the Visual Studio Marketplace.
         This is a Pack with two extensions.  Auto Close Tag and Auto Rename Tag.  They will automatically close your tags and if you rename them, it will change the opening/closing tag automatically.
 
 2.  Bookmarks\
-    [![LiveShare](https://img.shields.io/badge/download-blue?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
+    [![Bookmarks](https://img.shields.io/badge/download-blue?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
 
         You can add "bookmarks" in your code that you can quickly jump to.  Useful when you have several hundred lines of code.
 
 3.  Bracket Pair Colorizer 2\
-    [![LiveShare](https://img.shields.io/badge/download-blue?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
+    [![Bracket Pair Colorizer 2](https://img.shields.io/badge/download-blue?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 
         Adds color to your curlies "{ }", brackets "[ ]", and parentheses "( )".  Very useful when trying to find the missing one!
 
 4.  Code Spell Checker\
-    [![Code-Spell-Checker-download](https://img.shields.io/badge/download-blue?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+    [![Code-Spell-Checker](https://img.shields.io/badge/download-blue?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 
         ![](md-img/spelling_nemesis.jpg) Great tool to help defend against the Spelling Nemesis!
         Look for the light blue word linter for misspelled (or what it thinks is misspelled).
 
 5.  Indent-Rainbow\
-    [![LiveShare](https://img.shields.io/badge/download-blue?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
+    [![Indent-Rainbow](https://img.shields.io/badge/download-blue?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 
         This extension colorizes the indentation in front of your text alternating four different colors on each step.
 
 6.  Live Share\
-    [![LiveShare](https://img.shields.io/badge/download-blue?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+    [![Live Share](https://img.shields.io/badge/download-blue?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 
         We will use this in class, so get it.  This will let you pair program.  It creates a secure link that you can share with another teammate and they can access your VS Code.  You must have it to access a teammate's URL Link.  Very useful.  Once installed, you will have this icon.\
         ![LiveShare](md-img/VSCode-liveshare.png)
 
 7.  Live Server\
-    [![LiveShare](https://img.shields.io/badge/download-blue?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+    [![Live Server](https://img.shields.io/badge/download-blue?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
         We will use this in class, so get it.  This lets you generate a live server from VS Code while you are working on Frontend projects.
 
 8.  Lorem ipsum\
-    [![LiveShare](https://img.shields.io/badge/download-blue?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=Tyriar.lorem-ipsum)
+    [![Lorem ipsum](https://img.shields.io/badge/download-blue?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=Tyriar.lorem-ipsum)
 
         Just a quick little tool to add lorem ipsum sample text when needed.
 
 9.  Visual Studio IntelliCode\
-    [![LiveShare](https://img.shields.io/badge/download-blue?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+    [![Visual Studio IntelliCode](https://img.shields.io/badge/download-blue?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
 
         This is magic!  In simple terms, it is hints on what code you could use!
 
 10. VSCode-PDF\
-    [![LiveShare](https://img.shields.io/badge/download-blue?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf)
+    [![VSCode-PDF](https://img.shields.io/badge/download-blue?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf)
 
         Open PDF documents right in VSCode.
 
 11. WakaTime\
-    [![LiveShare](https://img.shields.io/badge/download-blue?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
+    [![WakaTime](https://img.shields.io/badge/download-blue?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
 
         You create an account with WakaTime and this extension connects to it.  It will keep a record of your programming metrics, like time and languages.  Good for future employers to see how much time you spend coding.
 
 12. Whoopee Cushion Keyboard\
-    [![LiveShare](https://img.shields.io/badge/download-blue?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=VincentTunru.flatuscode)
+    [![Whoopee Cushion Keyboard](https://img.shields.io/badge/download-blue?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=VincentTunru.flatuscode)
 
         This gem is from Brittani Ericksen.  I think you can figure it out!
 
-### JavaSript
+### Formatting and Themes
+
+Themes - just search for themes. There are so many. Star Wars, Game of Thrones, Cyberpunk..... They add font colors, fonts, dark and light modes, icon packs, the works. Here are some we like.
+
+1.  Bearded Theme\
+    [![Bearded Theme](https://img.shields.io/badge/download-blue?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=BeardedBear.beardedtheme)
+
+        Cool theme pack with 17 different theme variations.
+
+2.  Material Icon Theme\
+    [![Material Icon Theme](https://img.shields.io/badge/download-blue?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+
+        Material Design Icons for Visual Studio Code
+
+3.  Prettier Formatter\
+    [![Prettier Formatter](https://img.shields.io/badge/download-blue?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
+        Prettier is an opinionated code formatter. It enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary.
+
+### JavaScript & React
+
+1.  ESLint\
+    [![ESLint](https://img.shields.io/badge/download-blue?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+
+        ESLint is a code error checker that will save you.  Must have.
+
+2.  ES7 React/Redux/GraphQL/React-Native\
+    [![ES7 React/Redux/GraphQL/React-Native](https://img.shields.io/badge/download-blue?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+
+        This extension provides you JavaScript and React/Redux snippets in ES7 with Babel plugin features for VS Code.
+
+3.  Quokka.js\
+    [![Quokka.js](https://img.shields.io/badge/download-blue?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
+
+        Quokka.js is a developer productivity tool for rapid JavaScript / TypeScript prototyping. Runtime values are updated and displayed in your IDE next to your code, as you type.
+
+### Python
+
+1.  Python Extension Pack\
+    [![Python Extension Pack](https://img.shields.io/badge/download-blue?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+
+        This extension pack packages some of the most popular Python extensions.
+
+        Extensions Included
+            - Python - Linting, Debugging (multi-threaded, remote), Intellisense, code formatting, refactoring, unit tests, snippets, Data Science (with Jupyter), PySpark and more.
+            - MagicPython - Syntax highlighter for cutting edge Python.
+            - Jinja - Jinja template language support for Visual Studio Code.
+            - Django - Beautiful syntax and scoped snippets for perfectionists with deadlines.
+            - Visual Studio IntelliCode - Provides AI-assisted productivity features for Python developers in Visual Studio Code with insights based on understanding your code combined with machine learning..
+
+2.  Python Indent\
+    [![Python Indent](https://img.shields.io/badge/download-blue?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=KevinRose.vsc-python-indent)
+
+        Remember I talked about Python requiring a specific indent?  Well here is a sure fire fix.
+
+### CSS
+
+1.  IntelliSense for CSS\
+    [![IntelliSense for CSS](https://img.shields.io/badge/download-blue?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
+
+        The magic hint for CSS class names.
+
+### Git & GitHub
+
+1.  GitHub\
+    [![GitHub](https://img.shields.io/badge/download-blue?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
+
+        This extension allows you to review and manage GitHub pull requests and issues in Visual Studio Code.
+
+2.  GitLens\
+    [![GitLens](https://img.shields.io/badge/download-blue?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+
+        GitLens supercharges the Git capabilities built into Visual Studio Code. It helps you to visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.
