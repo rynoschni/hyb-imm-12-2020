@@ -1,6 +1,6 @@
 # Important VS Code Resources
 
-We will be using Visual Studio Code as our IDE (Integrated Development Environment). It is available for Mac, PC, and Linx systems.
+We will be using Visual Studio Code as our IDE (Integrated Development Environment). It is available for Mac, PC, and Linux systems.
 
 > **Important**\
 > There is a _Visual Studio_ and a _Visual Studio Code_! Make sure to have _Visual Studio Code_!
