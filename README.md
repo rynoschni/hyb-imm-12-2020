@@ -7,7 +7,7 @@ This is your field guide to your Hybrid Immersive cohort, and should provide you
 ## Important Links
 
 - [Classroom Zoom](https://bit.ly/3qpSqQS)
-- [Class Recordings] - TBD
+- [Class Recordings](https://docs.google.com/spreadsheets/d/1T7UjFU2r-hBy-nvo-XRCmNK_y6AYBHhfkQdZXXZ5FKE/edit#gid=0)
 - [Debug Process](https://docs.google.com/document/d/1Hb3IZVcnrZQ6FXNgiqUBbqrEkRv-k1O_TFffqj3KoVs/)
 - [Learning Portal(your Textbook)](https://learn.digitalcrafts.com/immersive/)
 - [Classroom Board](https://github.com/orgs/DigitalCraftsStudents/projects/3)
