@@ -1,4 +1,4 @@
-# Terminal Exercises Part 1
+# Terminal Exercises
 
 Please go to [The Command Line Crash Course](https://learnpythonthehardway.org/book/appendixa.html) (Appendix A of "Learn Python the Hard Way") and
 
@@ -8,3 +8,5 @@ Please go to [The Command Line Crash Course](https://learnpythonthehardway.org/b
 * Task 4: Exercises 9-10.
 
 They'll help reinforce the concepts and (more importantly) your muscle memory for using the Terminal.
+
+--
