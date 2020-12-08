@@ -134,12 +134,12 @@ Click on the link and install from the Visual Studio Marketplace.
         Look for the light blue word linter for misspelled (or what it thinks is misspelled).
 
 5.  Indent-Rainbow\
-    [![Indent-Rainbow](https://img.shields.io/badge/download-blue?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
+    [![Indent-Rainbow](https://img.shields.io/badge/download-blue?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 
         This extension colorizes the indentation in front of your text alternating four different colors on each step.
 
 6.  Live Share\
-    [![Live Share](https://img.shields.io/badge/download-blue?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+    [![Live Share](https://img.shields.io/badge/download-blue?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 
         We will use this in class, so get it.  This will let you pair program.  It creates a secure link that you can share with another teammate and they can access your VS Code.  You must have it to access a teammate's URL Link.  Very useful.  Once installed, you will have this icon.\
         ![LiveShare](md-img/VSCode-liveshare.png)
@@ -213,7 +213,7 @@ Themes - just search for themes. There are so many. Star Wars, Game of Thrones, 
 ### Python
 
 1.  Python Extension Pack\
-    [![Python Extension Pack](https://img.shields.io/badge/download-blue?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+    [![Python Extension Pack](https://img.shields.io/badge/download-blue?style=for-the-badge&logo=visual-studio-code)](hhttps://marketplace.visualstudio.com/items?itemName=donjayamanne.python-extension-pack)
 
         This extension pack packages some of the most popular Python extensions.
 
