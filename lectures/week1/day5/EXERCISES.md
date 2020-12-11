@@ -22,8 +22,9 @@ Write a program that simulates a visit to Santa,
 #### Bonus
 
 * Involve Krampus!!
+* Add functions!
 
---
+---
 
 ## Exercise 2 (Large)
 
