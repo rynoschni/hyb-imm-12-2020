@@ -26,9 +26,9 @@ Your lectures will be published in weekly folders inside the `lectures` director
 - `README.md` - An overview about what to expect that week, including any recommended preparation
 - `day-*` directories - Each day of your class will contain
   - `README.md` - An agenda for the day and any relevant scheduling information
-  - `RESOURCES.md` - Additional resources that may be relevant to the day's lecture
-  - `/notes` - A directory for your instructor to store class notes in so that you can review later
-  - `/resources` - Occasionally we'll include some helpful files here
+  - `EXERCISES.md` - A link to the exercises for a particular day (could be Learning Portal or external)
+  - `RESOURCES.md` - Additional resources that may be relevant to the day's lecture (if applicable)
+  - `/resources` - Occasionally we'll include some helpful files here (screenshots, PDFs, etc...)
 
 ## Student Resources
 
