@@ -1,6 +1,6 @@
 # RPG Game Details
 
-Take version 1 of the RPG game and rewrite it using objects.
+Take the starter code of the RPG game and rewrite it using objects.
 
 > In this simple RPG game, the hero fights the goblin.
 > The hero has the options to:
