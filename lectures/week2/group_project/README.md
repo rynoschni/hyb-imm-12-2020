@@ -33,7 +33,7 @@ In your status you'll answer these three questions:
 
 ## Schedule
 
-* Wednesday Afternoon - Plan/Desing
+* Wednesday Afternoon - Plan/Design
 * Thursday - Build
 * Friday - Build
 * Weekend - _Up to you_
