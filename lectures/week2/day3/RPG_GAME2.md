@@ -1,6 +1,6 @@
 # RPG Game Details
 
-Continuing from the work done in part 1, update your code to reflect the changes to each class as noted below.
+Continuing from [the work done in part 1](../day2/RPG_GAME.md) , update your code to reflect the changes to each class as noted below.
 
 __NOTE__: Doing this work on a new branch and/or new file is recommended!
 
