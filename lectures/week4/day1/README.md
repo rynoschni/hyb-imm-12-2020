@@ -8,3 +8,12 @@
 
 * [Welcome to the Internet](https://docs.google.com/presentation/d/18OcQnX--FHy-HugG7CHluSMNxFQXYUifjvGs6ABGLeE/edit?usp=sharing)
 * [Getting Started with HTML](https://docs.google.com/presentation/d/17QzoSqW49vQis0Z4vQLcbi4OaIs16bqP77XOT97iako/edit?usp=sharing)
+
+## Keywords
+
+* tag pairs (start and end tags)
+* elements (tag pair + whatever they contain)
+* Document Object Model (DOM)
+* semantic markup
+* `<head>` - Document Metadata element
+* `<body>` - content of an HTML document
