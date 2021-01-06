@@ -6,9 +6,9 @@
 
 ## Codepen Examples
 
-* [Tables, Floats, Flex](https://codepen.io/torchcodelab/pen/gObNbrE?editors=1100)
+* [Tables, Floats, Flex](https://codepen.io/torchcodelab/pen/gObNbrE)
 * [Nth Child](https://codepen.io/torchcodelab/pen/gObNpeg)
-* [Media Queries (bonus Nicolas Cage)](https://codepen.io/torchcodelab/pen/gObNpeg)
+* [Media Queries (bonus Nicolas Cage)](https://codepen.io/torchcodelab/pen/MWYMKOp)
 
 ## Additional Reading
 

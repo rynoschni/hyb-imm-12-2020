@@ -8,6 +8,10 @@
 * [CSS Position](https://learn.digitalcrafts.com/immersive/lessons/front-end-foundations/css-position/#learning-objectives)
 * [CSS Media Queries](https://learn.digitalcrafts.com/immersive/lessons/front-end-foundations/media-queries/#learning-objectives)
 
+## Github
+
+* [CSS Demo Repo](https://github.com/seanrreid/CSS/) <br/> _Note_: Positioning Demo is on the `positioning` branch
+
 ## Recommended Reading
 
 * [Old CSS, new CSS](https://eev.ee/blog/2020/02/01/old-css-new-css/)
