@@ -10,6 +10,7 @@
 
 * [JS Objects](https://docs.google.com/presentation/d/1L8rbl3OBUzsxMLCMWAPvigPb2vowewJVMjlZ-qCZ4kk/)
 * [JS Event Loop](https://docs.google.com/presentation/d/1ug0Zt52A_OSyfxsBzhbD3PQK6OO9bssEsLwJPCKOo5k/)
+* [Scope and Callbacks](https://docs.google.com/presentation/d/1RtrA2VlRYspHjE-XtdlunvQTvrT8w0RjCFo4O1M6Jwc/)
 
 ## Recommended Reading
 
