@@ -31,3 +31,4 @@
 * callbacks
 * Application Program Interface (API)
 * `fetch`
+* query parameters
