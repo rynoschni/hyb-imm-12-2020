@@ -2,6 +2,7 @@
 
 ## Learning Portal
 
+* [DOM 101](https://learn.digitalcrafts.com/immersive/lessons/handling-user-input/dom-101/#learning-objectives)
 * [Handling Browser Events](https://learn.digitalcrafts.com/immersive/lessons/handling-user-input/handling-browser-events/#learning-objectives)
 * [AJAX 1010](https://learn.digitalcrafts.com/immersive/lessons/building-interactive-uis/ajax-101/#learning-objectives)
 
@@ -17,10 +18,15 @@
 * [Clean Code: Javascript](https://github.com/ryanmcdermott/clean-code-javascript#introduction)
 * [A fictitious, somewhat farcical conversation between me and the JavaScript programming language](https://littleyellowdifferent.substack.com/p/a-fictitious-somewhat-farcical-conversation)
 
+## Other
+
+* __VIDEO__: [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+
 ## Keywords
 
 * objects
 * event loop
 * asynchronous
+* callbacks
 * Application Program Interface (API)
 * `fetch`
