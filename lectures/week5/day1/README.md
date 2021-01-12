@@ -4,7 +4,7 @@
 
 * [DOM 101](https://learn.digitalcrafts.com/immersive/lessons/handling-user-input/dom-101/#learning-objectives)
 * [Handling Browser Events](https://learn.digitalcrafts.com/immersive/lessons/handling-user-input/handling-browser-events/#learning-objectives)
-* [AJAX 1010](https://learn.digitalcrafts.com/immersive/lessons/building-interactive-uis/ajax-101/#learning-objectives)
+* [AJAX 101](https://learn.digitalcrafts.com/immersive/lessons/building-interactive-uis/ajax-101/#learning-objectives)
 
 ## Presentations
 
