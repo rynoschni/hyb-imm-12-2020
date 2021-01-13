@@ -6,3 +6,4 @@
 ## Solutions
 
 * [IIFE Demo](https://github.com/seanrreid/iife_demo)
+* [JS vs jQuery Demo](https://github.com/seanrreid/jquery_vs_js)
