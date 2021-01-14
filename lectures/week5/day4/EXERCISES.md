@@ -4,7 +4,7 @@
 
 ### Part 1
 
-* Complete the [third Medium Form exercise (Credit Card Payment)](https://learn.digitalcrafts.com/immersive/lessons/front-end-foundations/html-forms/#medium)
+* Complete the [second Medium Form exercise (Credit Card Payment)](https://learn.digitalcrafts.com/immersive/lessons/front-end-foundations/html-forms/#medium)
 * Complete the [Large form exercise](https://learn.digitalcrafts.com/immersive/lessons/front-end-foundations/html-forms/#large)
 
 ### Part 2
