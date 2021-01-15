@@ -17,25 +17,9 @@
 * Access at least 2 remote APIs (data mashup!)
 * Use fewer than 3 global variables (numerous constants are fine, but should be limited to primitive values like numbers and strings)
 
-### Recommendations
-
-#### DO
-
-* Choose a problem to solve.
-* Build the app around solving that problem.
-* Choose APIs whose data directly address the problem.
-* __COMMUNICATE__ early, and often!
-* Keep it SIMPLE! (No swords where butter knives will do!)
-
-#### DO NOT
-
-* Shoehorn a problem into a tech stack.
-* Fall in love with your code (because it's gonna change!).
-* Work in a silo and forget to talk to your team.
-
 ### Workflow Requirements
 
-* You'll be working in assigned groups.
+* You'll be working in [assigned groups](./GROUPS.md).
 * Create github repo (add all group members as collaborators)
 * Collaborate using PRs (Pull Requests), making sure to tag a reviewer for approval
 * Reviewer must code review through Github and approve before the PR can be merged. If there are no comments, the code has spaghetti, or has difficult to read spots, code review didn't happen.
@@ -51,3 +35,19 @@
 * Too many commits in a single PR (meaning too much to review)
 * Code in a commit does not match commit message
 * Commit message is vague
+
+## Recommendations
+
+#### DO
+
+* Choose a problem to solve.
+* Build the app around solving that problem.
+* Choose APIs whose data directly address the problem.
+* __COMMUNICATE__ early, and often!
+* Keep it SIMPLE! (No swords where butter knives will do!)
+
+#### DO NOT
+
+* Shoehorn a problem into a tech stack.
+* Fall in love with your code (because it's gonna change!).
+* Work in a silo and forget to talk to your team.
