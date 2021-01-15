@@ -4,7 +4,7 @@
 
 * Crystal
 * Hilda
-* Josh Cook
+* Josh C
 
 ## Group 2
 
