@@ -12,4 +12,4 @@ When you don't attach your feelings with the code you write, there is a better c
 
 ## Project Details
 
-See details in [projects/frontend folder]('../../../projects/frontend')
+See details in [projects/frontend folder](https://github.com/DigitalCraftsStudents/hyb-imm-12-2020/tree/main/projects/frontend)
