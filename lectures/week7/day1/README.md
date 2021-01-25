@@ -7,7 +7,6 @@
 ## Slides
 
 * [Node Intro](https://docs.google.com/presentation/d/1sdqyaNYj1V3brbD0si9TKN24DBXliN0w7tu_8J3s9sI/edit?usp=sharing)
-* [MVC Intro + Javascript Prototypes](https://docs.google.com/presentation/d/1L1_Tp4IeqfKIowZ_W0_k-EI1PHPR3z5q5e0RmCssy1c/edit?usp=sharing)
 
 ## REQUIRED READING
 
