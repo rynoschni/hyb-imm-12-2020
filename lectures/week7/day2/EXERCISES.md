@@ -6,4 +6,4 @@
 
 ## Afternoon
 
-* Complete all the [Small Express 101 Exercises](https://learn.digitalcrafts.com/immersive/lessons/back-end-foundations/express-101/#small)
+* Complete the first two [Small Express 101 Exercises](https://learn.digitalcrafts.com/immersive/lessons/back-end-foundations/express-101/#small)
