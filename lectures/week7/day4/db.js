@@ -37,7 +37,7 @@ module.exports = [
     },
     {
         id: 7,
-        slug: 'steve_jobs',
+        slug: 'steve_jobs2',
         name: 'Steve Jobs',
         year: '1997',
     },
