@@ -1,6 +1,7 @@
 # Day 5
 
 * __Morning__: Friyay with Brittani & Ryan
+
 *** [Development & Setup Tips Presentation](https://docs.google.com/presentation/d/19aKs4qzw4FrJ6SRxeJcjhg7FroJyqB_jpFVUxT14JKk/edit?usp=sharing)
 
 
