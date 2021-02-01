@@ -23,3 +23,27 @@
 
 * Get a partner and explain your answers to each other. See how your answers differ and why.
 
+---
+
+## Data School Online Practice
+
+* [Data School: Quick Introductory SQL Concepts](https://dataschool.com/learn-sql/introduction/) <br/> Start with the Introduction, and complete up through the `LIMIT` section.
+
+---
+
+## Apple CEOS Database
+
+### Create a Schema File
+
+Create a `schema.sql` file for an Apple CEO database. Include a `CREATE TABLE` statement to create a table called `apple_ceos`.
+
+This table will contain the following information, you will use the appropriate data types to represent the info.
+__Please use an auto-incrementing primary key `ID`__:
+
+* Name
+* Slug (lowercase version of the name without spaces)
+* First Year Active
+
+### Create a Seed File
+
+Create a `seed.sql` file to populate the table. Include an `INSERT` statement to add one, or more, Apple CEOs with all the associated data.
