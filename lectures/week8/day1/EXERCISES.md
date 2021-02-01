@@ -33,6 +33,10 @@
 
 ## Apple CEOS Database
 
+### Create an `apple_ceos_sql` folder
+
+This folder will contain _two_ SQL files.
+
 ### Create a Schema File
 
 Create a `schema.sql` file for an Apple CEO database. Include a `CREATE TABLE` statement to create a table called `apple_ceos`.
