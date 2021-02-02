@@ -6,7 +6,12 @@
 * [Asynchronous programming in JavaScript](https://exploringjs.com/impatient-js/ch_async-js.html)
 * [JavaScript Promises for Dummies](https://www.digitalocean.com/community/tutorials/javascript-promises-for-dummies)
 * [JavaScript.info: Async/await](https://javascript.info/async-await)
+* [Making asynchronous programming easier with async and await](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await)
 * [Exploring Async/Await Functions in JavaScript](https://www.digitalocean.com/community/tutorials/js-async-functions)
+
+## PSQL
+
+* [A Visual Explanation of SQL Joins](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
 
 ## CSS
 
