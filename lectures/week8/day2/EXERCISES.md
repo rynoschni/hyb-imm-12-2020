@@ -45,8 +45,8 @@ We'll rank our understanding of the topics using the following 5 point scale:
 ### The Assignment
 
 * Create a PSQL database with _two_ tables.
-  * `topics` table
-  * `ranking_scale` table
+  * `topics` table with `id`, `topic_name`, and `topic_score` (this is a FOREIGN KEY value that points to the `ranking_scale` PRIMARY KEY)
+  * `ranking_scale` table with `id`, `ranking_title`, and `ranking_value` columns. `id` is the PRIMARY KEY, that points to `topics.topic_score` 
 * Create a Node + Express App:
   * Create the Express App
   * Install `pg-promise` and `express-es6-template-engine`
