@@ -5,6 +5,7 @@ Putting the M in MVC.
 ## Learning Portal
 
 * [Data Modeling](https://learn.digitalcrafts.com/immersive/lessons/databases/data-modeling/#learning-objectives)
+* [Intro to `pg-promise`](https://learn.digitalcrafts.com/immersive/lessons/databases/pg-promise/#overview)
 
 ## Presentations
 
