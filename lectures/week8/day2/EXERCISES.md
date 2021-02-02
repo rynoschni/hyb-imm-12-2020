@@ -19,3 +19,35 @@
 ## Part 4
 
 * Complete [SQLBolt `ALTER TABLE` Exercise, 17](https://sqlbolt.com/lesson/altering_tables)
+
+---
+
+## Class Survey v1
+
+We're going to create an app to rank our understanding of the following topics:
+
+* HTML
+* CSS
+* Javascript
+* PostgreSQL
+* Node
+* Express
+
+We'll rank our understanding of the topics using the following 5 point scale:
+
+* Awesome, 5
+* Great, 4
+* Good, 3
+* Okay, 2
+* Poor, 1
+* Unranked, 0
+
+### The Assignment
+
+* Create a PSQL database with _two_ tables.
+  * `topics` table
+  * `ranking_scale` table
+* Create a Node + Express App:
+  * Create the Express App
+  * Install `pg-promise` and `express-es6-template-engine`
+  * Create an index route that queries the database, aka `GET`, and returns the topics, and your score (1-5)
