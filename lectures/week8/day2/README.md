@@ -8,4 +8,4 @@ Putting the M in MVC.
 
 ## Presentations
 
-* [Intro to Backend: SQL](https://docs.google.com/presentation/d/1fNRy3KKX59e7kz3Bff6kMZ-AHw9KnFnbN7K4xHyOFjk/)
+* [Intro to PostgreSQL: Joins](https://docs.google.com/presentation/d/1dUsaM6ekzft_zEZWHssW9f0cl-PXVufl1YAPbT7B9E4/)
