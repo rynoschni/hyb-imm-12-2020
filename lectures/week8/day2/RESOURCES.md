@@ -5,6 +5,7 @@
 * [Understanding the "this" keyword, call, apply, and bind in JavaScript](https://ui.dev/this-keyword-call-apply-bind-javascript/)
 * [Asynchronous programming in JavaScript](https://exploringjs.com/impatient-js/ch_async-js.html)
 * [JavaScript Promises for Dummies](https://www.digitalocean.com/community/tutorials/javascript-promises-for-dummies)
+* [JavaScript.info: Async/await](https://javascript.info/async-await)
 * [Exploring Async/Await Functions in JavaScript](https://www.digitalocean.com/community/tutorials/js-async-functions)
 
 ## CSS
