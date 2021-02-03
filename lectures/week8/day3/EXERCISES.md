@@ -41,6 +41,6 @@ We'll rank our understanding of the topics using the following 5 point scale:
 
 ### The Assignment v2
 
-* Add a `POST` route to the Express App
-* Add a new _static_ method to the Model to include a `SQL UPDATE` to change the rank/status of your knowledge of 'HMTL' to a different rank/status
-* Add an HTML form to handle submitting entries to your `POST` route
+* __MODEL__: Add a new method (choose static or instance) to change the rank/status of your knowledge of `HMTL` to a different rank/status
+* __VIEW__:  Add an HTML form to handle submitting entries to your `POST` route
+* __CONTROLLER__: Add a `POST` route to the Express App
