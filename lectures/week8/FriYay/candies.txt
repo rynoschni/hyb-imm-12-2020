@@ -1,0 +1,11 @@
+add extra candies to each index in the array 
+does it make the index number >= the each of the other numbers in the array.
+
+if it does, return true
+if not, return false.
+
+need var i for index at i
+need empty array to return boolean to
+need away to test the max value of the remaining items in the array.
+
+

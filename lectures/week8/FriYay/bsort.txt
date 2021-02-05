@@ -1,0 +1,8 @@
+Create a function that takes an object
+sort the object list 
+using a .sort method
+
+or 
+loop through the object
+and compare each number and swap them if the first is bigger than the second
+
