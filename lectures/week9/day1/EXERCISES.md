@@ -38,14 +38,14 @@ Create a `users` route with the following methods
 
 ### GET routes - `router.get()`
 
-* GET `/user/signup` -> renders `signup`
-* GET `/user/login` -> renders `login`
+* GET `/users/signup` -> renders `signup`
+* GET `/users/login` -> renders `login`
 
 ### POST routes - `router.post()`
 
-* POST `/user/signup` -> Handles signup form submissions
+* POST `/users/signup` -> Handles signup form submissions
   * Expects first name, last name, email address, and password
-* POST `/user/login` -> Handles login form submissions
+* POST `/users/login` -> Handles login form submissions
   * Expects email address and password
 
 <!--
