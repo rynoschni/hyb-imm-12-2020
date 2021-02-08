@@ -20,3 +20,7 @@ Express JS Session Variables:
 ---
 Steps to validate a user login:
 ![Steps to Validate a Login](Steps_to_validate_a_login.jpg)
+
+---
+CORRECT BATTERY HORSE STAPLE
+![XKCD - Correct Battery Horse Staple](https://imgs.xkcd.com/comics/password_strength.png)
