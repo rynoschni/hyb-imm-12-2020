@@ -30,9 +30,6 @@ Create a form with the following items
   * Password -> password input
 * "LOGIN" button
 
-
-<!--
-
 ## Step 2
 
 ## User Routes
@@ -50,6 +47,8 @@ Create a `users` route with the following methods
   * Expects first name, last name, email address, and password
 * POST `/login` -> Handles login form submissions
   * Expects email address and password
+
+<!--
 
 ## Step 3
 
