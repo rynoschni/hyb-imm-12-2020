@@ -48,8 +48,6 @@ Create a `users` route with the following methods
 * POST `/users/login` -> Handles login form submissions
   * Expects email address and password
 
-<!--
-
 ## Step 3
 
 Setup User Model (in class code along)
@@ -57,5 +55,3 @@ Setup User Model (in class code along)
 * Insure we have the proper database tables setup.
 * `signup()` will be a STATIC method
 * `login()` will be an INSTANCE method
-
--->
