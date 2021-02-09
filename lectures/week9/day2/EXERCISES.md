@@ -1,4 +1,3 @@
-<!--
 # Yet ANOTHER To-Do List
 
 We'll use this exercise to rotate through breakout groups and develop a To-Do App using Node/Express/Postgresql
@@ -90,4 +89,3 @@ Does it work?
 * Test out the user experience.
 * Does it work as expected?
 * Fix any bugs you find in the process.
--->
