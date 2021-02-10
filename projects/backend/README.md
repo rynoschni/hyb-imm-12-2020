@@ -1,4 +1,4 @@
-# Week 9 - Day 3
+# Node + Express + Postgres Project
 
 ## We'll have DAILY stand-ups at 10:00 AM every day!
 
