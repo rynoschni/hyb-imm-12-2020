@@ -22,14 +22,14 @@
 
 ## Map, Filter, Reduce, with EMOJI
 
-![Map, Filter, Reduce, with emoji](map-filter-reduce-emoji.jpg)
+![Map, Filter, Reduce, with emoji](./img/map-filter-reduce-emoji.jpg)
 
 ## Map, Filter, Reduce, with FRUIT
 
-![Map, Filter, Reduce, with fruit](map-filter-reduce-fruits.jpg)
+![Map, Filter, Reduce, with fruit](./img/map-filter-reduce-fruits.jpg)
 
 ---
 
 ## Redux, Explained
 
-![Redux, Explained](ReduxDiagram.png)
+![Redux, Explained](./img/ReduxDiagram.png)
