@@ -21,14 +21,14 @@ Complete the tutorial up to _Developer Tools_
 
 When you see this below, please stop:
 > The React DevTools let you check the props and state of your React components.
-<!--
+
 ### Part 3
 
 Complete the tutorial up through _Completing the Game_
 
 When you see this below, please stop:
 > Congratulations! You now have a working tic-tac-toe game. And you’ve just learned the basics of React too. So you’re probably the real winner here.
-
+<!--
 ### Part 4
 
 Redo the version from the React Tutorial again, from scratch. Make the following changes:
