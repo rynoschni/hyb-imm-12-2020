@@ -6,6 +6,8 @@ You'll create a tic tac toe game with React that has at least three components: 
 
 Use the official React Tutorial to walk you through the process: [Tutorial: Intro to React](https://facebook.github.io/react/tutorial/tutorial.html)
 
+Follow the instructions [_Setup Option 2: Local Development Environment_](https://reactjs.org/tutorial/tutorial.html#setup-option-2-local-development-environment)
+
 ### Part 1
 
 Complete the tutorial up to _Making an Interactive Component_
