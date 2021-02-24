@@ -28,7 +28,7 @@ Complete the tutorial up through _Completing the Game_
 
 When you see this below, please stop:
 > Congratulations! You now have a working tic-tac-toe game. And you’ve just learned the basics of React too. So you’re probably the real winner here.
-<!--
+
 ### Part 4
 
 Redo the version from the React Tutorial again, from scratch. Make the following changes:
@@ -36,4 +36,4 @@ Redo the version from the React Tutorial again, from scratch. Make the following
 * Create a new React app with `create-react-app`
 * Create a `components` folder
 * Make a .jsx file for each of the components you created with the tutorial
--->
+
