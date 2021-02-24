@@ -14,14 +14,14 @@ Complete the tutorial up to _Making an Interactive Component_
 
 When you see this below, please stop:
 > Congratulations! You’ve just “passed a prop” from a parent Board component to a child Square component. Passing props is how information flows in React apps, from parents to children.
-<!--
+
 ### Part 2
 
 Complete the tutorial up to _Developer Tools_
 
 When you see this below, please stop:
 > The React DevTools let you check the props and state of your React components.
-
+<!--
 ### Part 3
 
 Complete the tutorial up through _Completing the Game_
