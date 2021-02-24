@@ -1,5 +1,9 @@
 # Resources
 
+## Debugging
+
+* [Debug Process Rubric](https://docs.google.com/document/d/1Hb3IZVcnrZQ6FXNgiqUBbqrEkRv-k1O_TFffqj3KoVs/edit?usp=sharing)
+
 ## React
 
 * [What Does `create-react-app` Actually Do?](https://levelup.gitconnected.com/what-does-create-react-app-actually-do-73c899443d61)
