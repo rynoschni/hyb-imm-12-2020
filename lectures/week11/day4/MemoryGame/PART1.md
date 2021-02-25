@@ -86,7 +86,7 @@ To show a MemoryCard, it needs to be rendered in your top level App component. W
 * Import your memory card at the top of App.js
 
 ```jsx
-import MemoryCard from ‘./MemoryCard.js';
+import MemoryCard from ‘./components/MemoryCard';
 ```
 
 * Add a self-closing `<MemoryCard />` tag below the `<header>` tag
