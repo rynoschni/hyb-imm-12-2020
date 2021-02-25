@@ -56,7 +56,7 @@ We want to push 16 “card objects” into the `deck` array.
   * `isFlipped`
   * `symbol`
 * Set `isFlipped: false`
-* Set `symbol: symbols[i % 8</strong>]` <br/>(read this as: `'i' modulus '8'`)
+* Set `symbol: symbols[i % 8]` <br/>(read this as: `'i' modulus '8'`)
 
 Create a function called `shuffle`
 
@@ -84,6 +84,7 @@ Yes, our App is currently displaying 16 MemoryCards to the screen, but those car
 Let’s change that!
 
 _Before_ the `return` statement of the `render()` function, create a variable called `cardsJSX`
+
 * We’re going to hold an array of `<MemoryCard />` elements in this array
 * Set `cardsJSX` equal to `this.state.deck.map();`
 * Inside the call to `map()`, write an anonymous function that takes `card` and `index` as parameters
