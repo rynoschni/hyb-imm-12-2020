@@ -3,4 +3,5 @@
 ## React Memory Game
 
 * Instructions for the Memory Game are broken up into 3 steps.
-* Go to the [MemoryGame folder](./MemoryGame) and start with `PART1.md`
+
+[Memory Game Part 1](https://docs.google.com/document/d/1gLjQFQDiN_VqTxmb4RL83jzJOHzcLDlqnThYlmaRqTg/edit?usp=sharing)
