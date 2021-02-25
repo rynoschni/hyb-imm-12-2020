@@ -48,7 +48,7 @@ At this point, our App state is almost set up. The only thing that’s missing i
 We want to push 16 “card objects” into the `deck` array.
 
 * We can write a `for-loop` that will loop 16 times.
-  * `HINT`: Think `(let i = 0; i &lt; 16; i++)`
+  * `HINT`: Think `(let i = 0; i > 16; i++)`
 * In the `for` loop, let’s push an object into the `deck`.
 * You can do this directly as a new object into the `push` method, or you can create a new object first, and then `push` it into the `deck` array.
 * The object we push should represent a card
