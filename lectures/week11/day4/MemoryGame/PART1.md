@@ -8,67 +8,73 @@ We’re going to be coding a simple memory game using ReactJS as our framework a
 
 If you haven’t played a memory game before, the rules are quite simple. The game starts with 16 face down cards on the table. On the other side of each card is a easily recognizable symbol, and there are 8 pairs of symbols arranged randomly among the 16 cards. The player will flip 2 cards at a time, trying to flip over 2 cards with the same symbol. If the player is successful, the cards remain flipped over. Otherwise, the cards are flipped back over. The player keeps trying to flip over pairs until all of the cards on the board are face up. The goal of the game is to match all the cards in as few flips as possible.
 
-### Your task for part 1
+### Your task for Part 1
 
 For now let’s try to create a ReactJS project that displays the initial state of the game: The game header with 16 cards face down on the board.
 
-![alt_text](images/image1.png)
-
 When you are finished, you should have a game _visually_ set up, but it won’t be interactive yet (clicking on the cards does nothing).
 
-## Let’s do it!
+At the end of this section, you'll have something that looks like this:
+
+![16 Cards](images/image5.png)
 
 ## Step 1 - Starting a new project
 
-Scaffolding a functioning ReactJS app can be a complicated process. Fortunately for us, there’s a npm package called **create-react-app** that handles this for us! It provides a fresh ReactJS project with all the fancy bells and whistles like hot-reloading and Jest testing. Run the following command from the terminal:
+Scaffolding a functioning ReactJS app can be a complicated process. Fortunately for us, there’s a npm package called `create-react-app` that handles this for us! It provides a fresh ReactJS project with all the fancy bells and whistles like hot-reloading and Jest testing. Run the following command from the terminal:
 
 ```bash
 npx create-react-app memory-game
 ```
 
-This will create a new folder named **memory-game **and populate it with boilerplate ReactJS/express code. When it’s done, cd into the directory and npm start. It should open your browser automatically and launch your new ReactJS app!
+This will create a new folder named `memory-game` and populate it with boilerplate ReactJS code.
+
+Change into that new directory and we can get started...
 
 ```bash
 cd memory-game
 ```
 
-Create a new branch called ‘part-1’ and then run the application. `npm start`
+Create a new branch called `part-1` and then run the application.
+
+```bash
+npm start
+```
 
 (We’ll create a new branch for part 2 and part 3 going forward.)
 
 Congratulations! Your project should look something like this:
 
-![alt_text](images/image2.png)
+![Welcome to React](images/image1.png)
 
 ## Step 2 - Remove the boilerplate code
 
 Let’s make the app header more specific to our project.
 
-1. In App.js, delete the JSX react logo. While you’re at it, remove the **import** statement at the top that’s bringing in the logo.svg
-2. Change the App title to “Memory Game”
-3. Add a subtitle that says “Match cards to win”
-4. Remove the App-intro p tag
-5. Notice that App.css is imported at the top of App.js! This is your css styling for the App component. Let’s make some changes:
-    1. Make the App-header class have a height of 80px
+* In `App.js`, delete the JSX React logo. While you’re at it, remove the `import` statement at the top that’s bringing in the `logo.svg`
+* Change the App title to “Memory Game”
+* Add a subtitle that says “Match cards to win”
+* Remove the any `<p>` tags
+* Notice that `App.css` is imported at the top of `App.js`! This is your css styling for the App component. Let’s make some changes:
+    1. Make the `App-header` class have a `height: 80px;`
     2. Make your new subtitle a bit smaller than the title
-    3. Make the subtitle have the color **#666666**
+    3. Make the subtitle have the color `#666666`
 
 Your project should look like this:
 
-![alt_text](images/image3.png)
+![alt_text](images/image4.png)
 
 ## Step 3 - Create a MemoryCard component
 
 Our app is going to make use of 16 cards. Each card will render identically, and they’ll all behave in the same way (in that they’re going to be flipping over). This kind of repetition combined with the non-trivial behavior is a sign that the cards should probably be a React Component.
 
-To make your project code organized, a good rule-of-thumb is to have each Component defined in its own .js or .jsx file.
+To make your project code organized, a good rule-of-thumb is to have each Component defined in its own `.js` or `.jsx` file.
 
-1. Create a folder called “components” in the /src folder.
-2. Create a MemoryCard.jsx file in the /src/components folder
-3. Define a react Component class and export it
-    1. Name the class “MemoryCard”
-    2. Make sure to include React and { Component } at the top
-    3. Make sure you include the “export default” statement at the bottom
+1. Create a folder called `components` in the `/src` folder.
+2. Create a `MemoryCard.jsx` file in the `/src/components` folder
+3. Define a React Component class and export it
+    1. Name the class `MemoryCard`
+    2. Make sure to include `React` and `{ Component }` at the top
+    3. Make sure you include the `export default` statement at the bottom
 4. For now, let’s make the card render as a single `<h1>` tag that says “CARD”
 
 Your app should look no different after this step! You’ve defined a new Component, but you’re not using it anywhere in your application. Let’s do that!
@@ -77,44 +83,58 @@ Your app should look no different after this step! You’ve defined a new Compon
 
 To show a MemoryCard, it needs to be rendered in your top level App component. We can do that using JSX.
 
-1. Import your memory card at the top of App.js
-    1. “import MemoryCard from ‘./MemoryCard.js’”
-2. Add a self-closing MemoryCard tag below the &lt;header> tag
+* Import your memory card at the top of App.js
+
+```jsx
+import MemoryCard from ‘./MemoryCard.js';
+```
+
+* Add a self-closing `<MemoryCard />` tag below the `<header>` tag
 
 That’s all it takes! Your app should now look like this:
 
-![alt_text](images/image4.png)
+![Single Card](images/image6.png)
 
 ## Step 5 - Make our card actually look like a card
 
-1. Create a MemoryCard.css file in the /src/components folder
-2. Import MemoryCard.css in MemoryCard.js (_look at how they did it in App.js_)
-3. Delete the h1 tag we created in step 3
-4. Replace it with a div tag with a class named “MemoryCard”
-5. In MemoryCard.css, define the css for the .MemoryCard class
-    1. Give it display: inline-block (so that cards align from left to right)
-    2. Width should be 150px
-    3. Height should be 80px
-    4. Give it a margin of 3px
-    5. Border-radius should be 5px
-    6. The border should be a solid 3px border with the color “navy”
-    7. Give it “cursor: pointer;”
-    8. Give it a nice striped background
-        1. [https://css-tricks.com/stripes-css/](https://css-tricks.com/stripes-css/)
-6. Inside the div tag, add an image tag for the DigitalCrafts logo 9. [https://www.digitalcrafts.com/img/digitalcrafts-logo-white-y.png](https://www.digitalcrafts.com/img/digitalcrafts-logo-white-y.png)
-7. Target the image tag in your CSS, give it these styles: 10. 100% width 11. 13px padding-top
+* Create a `MemoryCard.css` file in the `/src/components` folder
+* Import `MemoryCard.css` in MemoryCard.js <br/>(_look at how they did it in `App.js`_)
+* Delete the `<h1>` tag we created in Step 3
+* Replace it with a `<div>` tag with a class named “MemoryCard”
+* In `MemoryCard.css`, define the css for the `.MemoryCard` class
+
+```css
+.MemoryCard {
+    display: inline-block;
+    width: 150px;
+    height: 80px;
+    margin: 3px;
+    border-radius: 5px;
+    border: solid 3px navy;
+    cursor: pointer;
+}
+```
+
+* Also give it a striped background, using an example from [Stripes in CSS](https://css-tricks.com/stripes-css/)
+* Inside the `<div>` tag, add an `<img>` tag that will hold the [DigitalCrafts logo](https://www.digitalcrafts.com/img/digitalcrafts-logo-white-y.png)
+* Target the image tag in your CSS, give it these styles:
+
+```css
+ width: 100%;
+ padding-top: 13px;
+```
 
 Your card should now look something like this:
 
-![alt_text](images/image5.png)
+![alt_text](images/image2.png)
 
 ## Step 6 - Render 16 cards to the screen
 
 Now that our card is styled, we should show the whole deck to the screen
 
-1. Back in App.js, render 15 more cards
-2. To get them to line up in a 4 by 4 grid, group the Card tags using `<div>` tags
+* Back in App.js, render 15 more cards
+* To get them to line up in a 4 by 4 grid, group the Card tags using `<div>` tags
 
 And we’re done! Our app should look like this now:
 
-![alt_text](images/image6.png)
+![alt_text](images/image5.png)
