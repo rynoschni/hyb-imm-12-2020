@@ -1,0 +1,14 @@
+Group 1:
+
+1. Write a function that multiplies two numbers (provided as arguments) without using *
+
+2. Given a 2D array of 1s and 0s, count the number of "islands of 1s" (e.g. groups of 1s)
+eg [0,0,1,1,0,1,0,1,0,1,0,0,0,0,1,1,1,1,1,0,1,0,1,1] => 7
+
+-----------------------------------------------------------
+Group 2:
+
+3. Write a function to reverse a string (provided as an argument)
+
+4. Write a function to return a boolean based on whether or not the argument provided (string) is a palindrome. A palindrome is word or phrase that has the same characters whether forward or backwards
+eg racecar => true; truck => false
