@@ -20,3 +20,8 @@
 ## React Router
 
 * [React Router Quick Start](https://reactrouter.com/web/guides/quick-start)
+
+## Github Repos
+
+* [React Forms Walkthrough](https://github.com/seanrreid/react-forms-in-class)
+* [React Router Walkthrough](https://github.com/seanrreid/react-router-class-walkthrough-v_3_21)
