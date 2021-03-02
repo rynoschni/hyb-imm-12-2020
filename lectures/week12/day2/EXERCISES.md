@@ -76,6 +76,20 @@ The blog post uses 100% functional components and React Hooks. If you'd like to 
 
 ---
 
+## Following up from the Github User Exercise:
+
+### Step 1
+
+* For each User Profile, create a route, ie: `http://localhost:3000/user/[username]`
+* Create a `UserProfile` component that will load in this route
+* Load information specific to that user on this page (your choice what to display)
+
+### Step 2
+
+* Inside that route, query the user's repos and render a list of items with details for each repo.
+* Use the following API (replace `[username]` with the user's Github username): `https://api.github.com/users/[username]/repos`
+
+<!--
 ## Github Issues - Part 2
 
 * Add React Router to our Github Issues List
@@ -100,4 +114,4 @@ Refactor your **CLASS** based component`IssueList` to render the Issue Title and
 
 ## Bonus
 
-* Add React-Markdown
+* Add React-Markdown -->
