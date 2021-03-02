@@ -76,7 +76,7 @@ The blog post uses 100% functional components and React Hooks. If you'd like to 
 
 ---
 
-<!-- ## Github Issues - Part 2
+## Github Issues - Part 2
 
 * Add React Router to our Github Issues List
 
@@ -100,4 +100,4 @@ Refactor your **CLASS** based component`IssueList` to render the Issue Title and
 
 ## Bonus
 
-* Add React-Markdown -->
+* Add React-Markdown
