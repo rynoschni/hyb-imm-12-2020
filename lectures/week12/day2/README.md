@@ -1,5 +1,11 @@
 # Week 12 - Day 2
 
+## Where we are going (today)
+
+* Forms
+* React Ecosystem (React Router)
+* Hooks
+
 ## Learning Portal
 
 * [Form Components in React](https://learn.digitalcrafts.com/immersive/lessons/full-stack-frameworks/forms-with-react/#learning-objectives)
