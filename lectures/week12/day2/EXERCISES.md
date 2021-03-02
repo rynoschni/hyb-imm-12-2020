@@ -88,30 +88,3 @@ The blog post uses 100% functional components and React Hooks. If you'd like to 
 
 * Inside that route, query the user's repos and render a list of items with details for each repo.
 * Use the following API (replace `[username]` with the user's Github username): `https://api.github.com/users/[username]/repos`
-
-<!--
-## Github Issues - Part 2
-
-* Add React Router to our Github Issues List
-
-## App Structure
-
-### The `IssueList` Component
-
-Refactor your **CLASS** based component`IssueList` to render the Issue Title and a Link
-
-* This component will still load an array of Issues from the Github API
-* Add in some conditional rendering based on if the `issues` array is empty or not
-* The link will point to `issue/:issue_number`, i.e. `localhost:3000/issue/1223`
-* This link will point to a **nested route** to load the `Issue` component.
-
-### The `Issue` component
-
-* This will load the details of a particular issue, based on the issue number
-* It will receive the issue number via the `useParams()` Hook
-* The `issues` array will be passed in as a `prop`
-* Return a single issue, via the `issue_number`, from the `issues` array 
-
-## Bonus
-
-* Add React-Markdown -->
