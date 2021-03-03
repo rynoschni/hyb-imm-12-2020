@@ -40,7 +40,7 @@
 
 #### REMINDER
 
-We did used the `find()` method on our Apple CEOs assignment:
+We used the `find()` method on our Apple CEOs assignment:
 
 ```js
 const executive = ceosModel.find((executive) => {
