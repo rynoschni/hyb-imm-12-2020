@@ -13,7 +13,7 @@
 * Forms
 * React Ecosystem (React Router)
 * Hooks
-* React + Redux
+* Redux
 * React Design Patterns (see today's [Resources](./RESOURCES.md) section!)
 
 ## Today we will focus on
