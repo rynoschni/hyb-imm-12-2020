@@ -32,8 +32,26 @@
 ### The `UserProfile` Component
 
 * This component will only load when you visit a specific route, i.e. `http://localhost:3000/user/[username]`
-* This will be a **CLASS** based component with lifecycle methods.
-* Fetch the User's repo data via `https://api.github.com/users/[username]/repos` and render some of that data in the component (your choice what to display).
+* This will be a **FUNCTIONAL** component.
+* Pass the list of users from the `UserList` into this component via `props`
+* Return a single user from the `users` array.
+  * **HINT**: You'll want to use the the `find()` method to find the issue from the `users` array.
+  * i.e. `const someVariableNameForSingleUserThatYouComeUpWith = users.find((someOtherSingleUserVariableNameThatYouDoNotCopyPasteFromMe) => return [do stuff to find a user via username])`
+
+#### REMINDER
+
+We did used the `find()` method on our Apple CEOs assignment:
+
+```js
+const executive = ceosModel.find((executive) => {
+    if (executive.slug === slug) {
+        return executive;
+    }
+});
+```
+
+<!-- * Fetch the User's repo data via `https://api.github.com/users/[username]/repos` and render some of that data in the component (your choice what to display). -->
+<!-- @TODO - Can't do the `fetch` until you've covered Hook, so add it later - SR -->
 
 ---
 
@@ -43,7 +61,7 @@
 
 ### The `IssueList` Component
 
-Refactor your **CLASS** based component`IssueList` to render the Issue Title and a Link
+Refactor your `IssueList` component to render the Issue Title and a Link
 
 * This component will still load an array of Issues from the Github API
 * Add in some conditional rendering based on if the `issues` array is empty or not
@@ -52,10 +70,13 @@ Refactor your **CLASS** based component`IssueList` to render the Issue Title and
 
 ### The `Issue` component
 
-* This will load the details of a particular issue, based on the issue number
-* It will receive the issue number via the `useParams()` Hook
-* The `issues` array will be passed in as a `prop`
-* Return a single issue, via the `issue_number`, from the `issues` array 
+* This will load the details of a particular issue, based on the issue number.
+* It will receive the issue number via the `useParams()` Hook.
+* The `issues` array will be passed in as a `prop`.
+* Return a single issue, via the `issue_number`, from the `issues` array.
+  * **HINT**: You'll want to use the the `find()` method to find the issue from the issues array.
+  * i.e. `const someVariableNameForSingleIssueThatYouComeUpWith = issues.find((someOtherSingleIssueVariableNameThatYouDoNotCopyPasteFromMe) => return [do stuff to find an issue by its id])`
+  * See the [REMINDER](#reminder) above ☝️
 
 ## Bonus
 
