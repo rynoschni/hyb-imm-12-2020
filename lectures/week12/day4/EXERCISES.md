@@ -10,7 +10,8 @@
 
 ### Choices, you have
 
-* Keep the navigation on the screen, or hide it when a user
+* Keep the navigation on the screen, or hide it when a user browses to a character profile page.
+* What kind of styles you want to use (and if you want to incorporate a library _with_ Styled Components)
 
 ### NOTE
 
