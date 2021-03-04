@@ -22,8 +22,8 @@
 * Remove all the default information from `App.js` (you'll replace it with new components)
 * Create a folder called `components`
 * In that folder create:
-  * `CharacterList` * Accepts an array of user data as a PROP
-  * `CharacterProfile` * Accepts a single user's information as a PROP
+  * `CharacterList` - Accepts an array of user data as a PROP
+  * `CharacterProfile` - Accepts a single user's information as a PROP
 
 ## The `App.js` Component
 
