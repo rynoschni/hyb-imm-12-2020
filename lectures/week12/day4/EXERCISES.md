@@ -49,7 +49,7 @@
 #### Character Profile Route
 
 * There will be a route to each character profile that renders the `CharacterProfile` component.
-  * i.e. `path=/character/:id`
+  * i.e. `path="/character/:id"`
 
 ## The `CharacterList` Component
 
