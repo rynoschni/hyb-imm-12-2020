@@ -73,18 +73,3 @@ _REMINDER_: You'll need to setup controlled components in your React form: https
 This exercise was inspired by the following blog post: https://flaviocopes.com/react-example-githubusers/
 
 The blog post uses 100% functional components and React Hooks. If you'd like to try this method, create a new branch called `user-fetch-hooks` and refactor your project using Flavio's version as a template
-
----
-
-## Following up from the Github User Exercise:
-
-### Step 1
-
-* For each User Profile, create a route, ie: `http://localhost:3000/user/[username]`
-* Create a `UserProfile` component that will load in this route
-* Load information specific to that user on this page (your choice what to display)
-
-### Step 2
-
-* Inside that route, query the user's repos and render a list of items with details for each repo.
-* Use the following API (replace `[username]` with the user's Github username): `https://api.github.com/users/[username]/repos`
