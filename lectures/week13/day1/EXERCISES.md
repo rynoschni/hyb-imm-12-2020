@@ -22,8 +22,6 @@ Along with the reducer, make sure that you have action creators and a redux stor
 
 You'll dispatch the actions one at a time.
 
-<!--
-
 ## Exercise 2
 
 This is a variation on exercise #1, but it requires you to create actions that have payloads.
@@ -43,6 +41,8 @@ Write a reducer that responds to the following actions:
 * `ACTION_SET_ACTIVITY`
 
 Modify your action creators and reducer so that you can modify _two_ pieces of state based on the information in the `action.payload`.
+
+<!--
 
 ## Exercise 3
 
