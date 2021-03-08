@@ -1,5 +1,9 @@
 # Resources
 
+## JavaScript
+
+* [Master the JavaScript Interview: What is a Pure Function?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
+
 ## React in the wild
 
 * [Modeling UI States in A React Form Component Using A Finite State Machine](https://tech.okcupid.com/modeling-ui-states-in-react-form-component-using-finite-state-machine/)
