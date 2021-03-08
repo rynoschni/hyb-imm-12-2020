@@ -2,6 +2,8 @@
 
 The goal of these exercises is to get more comfortable with dispatching actions and writing reducers that calculate new state.
 
+* [Sean's Solution on Github](https://github.com/seanrreid/cat-reducer-v_03_21)
+
 ## Exercise 1
 
 Starting with the following state:
