@@ -1,7 +1,7 @@
 # The Cat Reducers
 
 The goal of these exercises is to get more comfortable with dispatching actions and writing reducers that calculate new state.
-<!--
+
 ## Exercise 1
 
 Starting with the following state:
@@ -21,6 +21,8 @@ Write a reducer that responds to the following actions:
 Along with the reducer, make sure that you have action creators and a redux store.
 
 You'll dispatch the actions one at a time.
+
+<!--
 
 ## Exercise 2
 
