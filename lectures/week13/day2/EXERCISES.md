@@ -32,7 +32,7 @@ Modify the action creators and reducers so that you can update an existing cat b
 
 When you create a cat, generate a new id. Think in terms of something like this:
 `const id = Math.random().toString(36).substring(2, 15) + Math.random().toString(36).substring(2, 15);`
-<!--
+
 ## Exercise 2 - Add Context!
 
 The goal of these exercises is to repeat the Cat Reducer exercise using the Context API instead of Redux
@@ -50,4 +50,4 @@ Write a reducer that responds to the following actions:
 * `ACTION_NAP`
 * `ACTION_EAT`
 * `ACTION_PLAY`
--->
+
