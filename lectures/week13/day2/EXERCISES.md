@@ -23,7 +23,6 @@ Your initial state is:
 
 Your reducer will respond to the following actions:
 
-* `ACTION_SET_NAME`
 * `ACTION_SET_ACTIVITY`
 * `ACTION_ADD_CAT`
 
