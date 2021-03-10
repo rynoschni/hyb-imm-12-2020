@@ -4,7 +4,7 @@
 
 ## Create a REACT-O-BLOG!
 
-* Your goal is to create a full-fledged MVC application, aka React-O-Blog!
+* Your goal is to create a full-fledged PERN (PSQL, Express, React, Node) application, aka **React-O-Blog!**
 * You'll write a backend, using Node, Express, and PostgreSQL to serve as an API.
 * You'll write a frontend, in React.
 * The React app will talk to the backend and render the data from the API.
@@ -14,18 +14,17 @@ Perhaps a diary of learning React/Redux?
 
 *NOTE*: You'll run the backend and frontend in _seperate_ folders/repos.
 
-## Your Models and Controllers
+## Your Backend JSON API
 
 * Create a Node + Express + PSQL app to store blog posts and comments
 * Have the routes return JSON: `res.json([SOMEDATA]).status(200);`
 
-### API Architecture
+### API Routes
 
 * Route to serve up all _all_ entries
 * Route to get a _single_ entry
-* Routes for comments on a single entry
 
-## Your View
+## Your React Frontend
 
 * Create a React App to load data from the API
 
