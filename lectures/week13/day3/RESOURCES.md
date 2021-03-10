@@ -1,5 +1,7 @@
 # Resources
 
+* [JavaScript Quickie — Dot Notation vs. Bracket Notation](https://codeburst.io/javascript-quickie-dot-notation-vs-bracket-notation-333641c0f781?gi=37b387e08a72)
+
 ## React Docs
 
 * [Hooks at a Glance](https://reactjs.org/docs/hooks-overview.html)

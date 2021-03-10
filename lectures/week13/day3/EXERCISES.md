@@ -1,4 +1,8 @@
-# Create an MVC Application
+# Exercises
+
+* [Sean's Solutions to the Apple CEO's frontend](https://github.com/seanrreid/apple_ceos_frontend_v_3_21)
+
+## Create an MVC Application
 
 * Your goal is to create a full-fledged MVC application, aka React-O-Blog!
 * You'll write a backend, using Node, Express, and PostgreSQL to serve as an API.
