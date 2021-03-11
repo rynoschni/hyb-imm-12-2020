@@ -43,13 +43,13 @@
 * **<a name="exploratory-test"></a>Exploratory Test**: tests written against a pre-existing system to understand its current behavior. Includes both first-party and third-party code. Similar to [characterization tests](#characterization-test), but tends to be less comprehensive and more disposable.
 * **<a name="functional-test"></a>Functional Test**: a test of a controller in an MVC application.
 * **<a name="integration-test"></a>Integration Test**: multiple usages:
-    * Aby test that exercises more than one production class; the opposite of an [isolation test](#isolation-test).
-    * A test that checks that the application’s code works correctly with third-party code.
+  * ABY test that exercises more than one production class; the opposite of an [isolation test](#isolation-test).
+  * A test that checks that the application’s code works correctly with third-party code.
 * **<a name="isolation-test"></a>Isolation Test**: a test that exercises only one production class. Any [dependencies](#dependency) of that class are replaced by [test doubles](#test-double).
 * **<a name="request-test"></a>Request Test**: a test of a request sent into a system, such as an HTTP request to a server-rendered web application or a web service.
 * **<a name="unit-test"></a>Unit Test**: multiple usages:
-    * A test that exercises only one production class; equivalent to “[isolation test](#isolation-test).” This is the definition used in [Mockist TDD](#mockist-tdd).
-    * A test of a class and all its real [collaborators](#collaborator). Called a “unit” test because it can be run in isolation without affecting or being affected by any other tests. This is the definition used in [Classical TDD](#classical-tdd).
+  * A test that exercises only one production class; equivalent to “[isolation test](#isolation-test).” This is the definition used in [Mockist TDD](#mockist-tdd).
+  * A test of a class and all its real [collaborators](#collaborator). Called a “unit” test because it can be run in isolation without affecting or being affected by any other tests. This is the definition used in [Classical TDD](#classical-tdd).
 
 ## <a name="types-of-test-double"></a>Types of Test Double
 
@@ -59,7 +59,7 @@
 * **<a name="spy"></a>Spy**: a [test double](#test-double) that records messages it receives, which can then be tested against at the end of a test case. Spies and [mocks](#mock) are the primary methods of [behavior verification](#behavior).
 * **<a name="stub"></a>Stub**: a [test double](#test-double) with hard-coded method responses.
 
-* * *
+---
 
 ## References
 
@@ -69,5 +69,7 @@
 * [_Practical Object-Oriented Design in Ruby_](https://web.archive.org/web/20190424203944/http://www.poodr.com/)
 * [“Test Doubles”](https://web.archive.org/web/20190424203944/http://www.martinfowler.com/bliki/TestDouble.html), MartinFowler.com
 * [_Test-Driven Development by Example_](https://web.archive.org/web/20190424203944/https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
+
+---
 
 **NOTE**: [This file generated from the Archive.org copy of the LearnTDD Page](https://web.archive.org/web/20190424203944/https://learntdd.in/concepts)
