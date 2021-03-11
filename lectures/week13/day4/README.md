@@ -10,4 +10,4 @@
 
 We're going to work through this assignment as a group in class.
 
-* [TDD Concepts from LearnTDD](https://learntdd.in/concepts/)
+* [React TDD from LearnTDD](https://learntdd.in/react/)
