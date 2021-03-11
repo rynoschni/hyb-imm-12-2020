@@ -2,7 +2,7 @@
 
 ## First Assignment
 
-* Review the [TDD Concepts from LearnTDD](https://web.archive.org/web/20190424203944/https://learntdd.in/concepts)
+* Review the [TDD Concepts from LearnTDD](./TDD_CONCEPTS.md)
   * The original document isn't online, this is a link to the Archive.org version from 2019.
 * Complete [this tutorial](https://learntdd.in/react/) on your own (same as we did in class).
 
