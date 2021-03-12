@@ -8,7 +8,7 @@
 ## Your mission
 
 
-![Broken Auth App](https://media.giphy.com/media/l2ZDRizzoJ7fNksUM/giphy.mp4)
+![Broken Auth App](./img/mission.gif)
 
 
 ### Broken Auth App
