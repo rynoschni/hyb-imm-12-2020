@@ -3,7 +3,7 @@
 ## Authentication Fly over
 
 ### Presentation
-* [Your Authorized](https://docs.google.com/presentation/d/1BNd-CX9Wntvowec-9RkPn-KyBnA7TajemQp_o4Ccn6o/edit?usp=sharing)
+* [You're Authorized](https://docs.google.com/presentation/d/1BNd-CX9Wntvowec-9RkPn-KyBnA7TajemQp_o4Ccn6o/edit?usp=sharing)
 
 ## Your mission
 
