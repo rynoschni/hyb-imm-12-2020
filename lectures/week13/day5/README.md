@@ -1,6 +1,6 @@
 # Week 13 - Day 5
 
-## Create a REACT-O-BLOG!
+## Revenge of REACT-O-BLOG!
 
 * Your goal is to create a full-fledged PERN (PSQL, Express, React, Node) application, aka **React-O-Blog!**
 * You'll write a backend, using Node, Express, and PostgreSQL to serve as an API.
