@@ -38,7 +38,7 @@
 
 ## Recommendations
 
-#### DO
+### DO
 
 * Choose a problem to solve.
 * Build the app around solving that problem.
@@ -46,7 +46,7 @@
 * __COMMUNICATE__ early, and often!
 * Keep it SIMPLE! (No swords where butter knives will do!)
 
-#### DO NOT
+### DO NOT
 
 * Shoehorn a problem into a tech stack.
 * Fall in love with your code (because it's gonna change!).
