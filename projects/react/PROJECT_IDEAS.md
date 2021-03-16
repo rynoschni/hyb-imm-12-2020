@@ -96,6 +96,7 @@ Requires:
 
 * React
 * Third party API: [Github Jobs API](https://jobs.github.com/api)
+* CORS Proxy (Express App, or a third party proxy)
 
 Optional:
 
