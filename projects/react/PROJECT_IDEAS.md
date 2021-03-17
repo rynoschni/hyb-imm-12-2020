@@ -47,7 +47,6 @@ Optional:
 
 #### Possible APIs
 
-* [Sygic Travel API](http://docs.sygictravelapi.com/1.1/)
 * [Open Brewery DB](https://www.openbrewerydb.org/)
 
 ---
