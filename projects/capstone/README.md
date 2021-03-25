@@ -13,9 +13,13 @@ This project is fairly open-ended, but this project should sell your technical s
 * It should be ambitious: cookie-cutter todo apps or blogs probably won't help you land a great position.
 * Start with the user-centered design process. This will help employers recognize your ability to set priorities in light of user needs!
 
-**Heads-up**: if you don’t particate in the capstone project (or make trivial contributions and disappear), you will not receive a DigitalCrafts certificate or be a DigitalCrafts graduate.
+**Heads-up**: If you don’t particate in the capstone project (or make trivial contributions and disappear), you will not receive a DigitalCrafts certificate or be a DigitalCrafts graduate.
 
-**Please note:** Your technical decisions are entirely up to you. This is your project. It's possible that you might choose a tech stack that is outside the Digital Crafts curriculum.  Your instructor will do whatever they can to help you, but understand that they might not have expertise with that particular tech stack.
+### Note
+
+Your technical decisions are entirely up to you. This is _your_ project. It's possible that you might choose a tech stack that is outside the Digital Crafts curriculum.  Your instructor will do whatever they can to help you, but understand that they might not have expertise with that particular tech stack.
+
+### ➡️ Remember the [Debug Process](https://docs.google.com/document/d/1Hb3IZVcnrZQ6FXNgiqUBbqrEkRv-k1O_TFffqj3KoVs/edit?usp=sharing)!!
 
 ## Front-end Requirements
 
